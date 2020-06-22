@@ -1,0 +1,14 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url(vvv.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 100vh;
+
+}
